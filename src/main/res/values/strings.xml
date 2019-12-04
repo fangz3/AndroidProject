@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTensorFlowMachineLearningExample</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Object</string>
+    <string name="open_nav">Open navigation drawer</string>
+    <string name="close_nav">Close navigation drawer</string>
+</resources>

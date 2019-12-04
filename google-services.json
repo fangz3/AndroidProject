@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836578342319",
+    "firebase_url": "https://tensorflow-ef42e.firebaseio.com",
+    "project_id": "tensorflow-ef42e",
+    "storage_bucket": "tensorflow-ef42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836578342319:android:10e45d5d34b8da5c94eb5a",
+        "android_client_info": {
+          "package_name": "com.example.gameprojectdemov1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836578342319-quoeep89l0llb7l1lutftsu0ihf5jgb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xqGEur67Re8Ub7e4GQaW_d8d7nmeS-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836578342319-quoeep89l0llb7l1lutftsu0ihf5jgb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
